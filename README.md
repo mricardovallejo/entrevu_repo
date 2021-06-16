@@ -34,7 +34,7 @@ Vous avez aussi, optionnellement, la possibilité d'utiliser les librairies Lomb
 - Spring Data JPA
 - Base de donnée en mémoire H2
 - Lombok (Optionnel)
-- Mapstruct (Optionnel)
+- Mapstruct (Optionnel)ssss
 
 ## Modèle
 
